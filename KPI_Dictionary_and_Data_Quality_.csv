@@ -1,0 +1,8 @@
+﻿order_id,order_date,customer_segment,city,category,quantity,unit_price,discount_pct,payment_status,customer_segment_norm,payment_status_norm,quantity_num,discount_num,date_ok,discount_kpi,kpi_ok,gross_revenue,discount_amount,net_revenue
+RT-1001,2026-01-03,Student,Chennai,Learning Kit,2,799,10,Paid,Student,Paid,2,10,TRUE,10,TRUE,1598,159.8,1438.2
+RT-1002,03/01/2026,Fresher,Bengaluru,Course Access,1,1499,0,paid,Fresher,Paid,1,0,TRUE,0,TRUE,1499,0,1499
+RT-1003,2026-01-05,student,Chennai,Course Access,1,1499,,Pending,Student,Pending,1,,TRUE,0,TRUE,1499,0,1499
+RT-1004,2026-01-07,Professional,Hyderabad,Learning Kit,3,799,5,Paid,Professional,Paid,3,5,TRUE,5,TRUE,2397,119.85,2277.15
+RT-1005,2026-01-09,Fresher,,Mentor Session,1,999,0,Failed,Fresher,Failed,1,0,TRUE,0,TRUE,999,0,999
+RT-1009,2026-01-16,Student,Chennai,Learning Kit,1,799,0,Paid,Student,Paid,1,0,TRUE,0,TRUE,799,0,799
+RT-1010,2026-01-18,Professional,Delhi,Course Access,2,1499,15,Refunded,Professional,Refunded,2,15,TRUE,15,TRUE,2998,449.7,2548.3
